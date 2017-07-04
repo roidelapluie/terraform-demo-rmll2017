@@ -1,0 +1,8 @@
+*.tfstate
+*.plan
+out.png
+tmpkey*
+crash.log
+.terraform
+*.zip
+*.backup
